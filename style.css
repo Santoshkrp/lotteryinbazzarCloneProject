@@ -1,0 +1,23 @@
+   /* CSS Document */
+* { margin: 0; padding: 0; }
+img { border: none; }
+a{text-decoration:none; outline:none;}
+.spacer{line-height:0; font-size:0; clear:both;}
+
+.header_bg{background:#09F; height:483px;}
+.header_bginner{background:#09F; height:160px;}
+
+.header{width:1000px; margin:0 auto; background:#2c92d6;}
+.slideshow{width:1000px; margin:0 auto; background:url(images/top_header.html); height:323px;}
+
+.header_bottom_bg{background:#C90 0 0 repeat-x; height:101;}
+.header_bottom{width:1000px; margin:0 auto;}
+
+.middle_bg{background:#09F 0 0 repeat-x ; height:auto;}
+.middle { width:1000px; margin:0 auto;}
+
+.left {	width:690px; margin:0px; float:left;  }
+ 
+.footer_bg{background:#03F 0 0 repeat-x; height:69px;}
+.footer{width:1000px; margin:0 auto;}
+.footer_bottom{background:#09F 0 0 repeat-x; height:50px;}
